@@ -17,11 +17,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+Con una inclinación hacia la programación, combino mi espíritu emprendedor con habilidades técnicas para desarrollar proyectos innovadores y efectivos. Mi enfoque en la resolución de problemas y mi naturaleza espontánea me permiten abordar desafíos con originalidad y entusiasmo. 
 
 <br><br>
 
