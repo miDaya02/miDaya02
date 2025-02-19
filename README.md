@@ -11,15 +11,17 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
+<br><br>
 
 Con una inclinación hacia la programación, combino mi espíritu emprendedor con habilidades técnicas para desarrollar proyectos innovadores y efectivos. Mi enfoque en la resolución de problemas y mi naturaleza espontánea me permiten abordar desafíos con originalidad y entusiasmo. 
 
-<br><br>
+<br>
+## **Sobre mi**
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
