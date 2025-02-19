@@ -42,7 +42,7 @@ Con una inclinación hacia la programación, combino mi espíritu emprendedor co
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,github,html,java,js,linux,mysql,springboot&vscode=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,github,html,java,js,linux,mysql,spring&vscode=14" />
   </a>
 </p>
 
