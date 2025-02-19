@@ -18,9 +18,8 @@
 <br><br>
 
 Con una inclinación hacia la programación, combino mi espíritu emprendedor con habilidades técnicas para desarrollar proyectos innovadores y efectivos. Mi enfoque en la resolución de problemas y mi naturaleza espontánea me permiten abordar desafíos con originalidad y entusiasmo. 
-
+<h3> Competencias</h3>
 <br>
-## **Sobre mi**
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
